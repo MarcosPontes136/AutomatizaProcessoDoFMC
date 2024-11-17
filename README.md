@@ -7,7 +7,7 @@
   </h2>
 </div>
 <div>
-  <b>h2geraPastasTemplates</b> - Percorre o projeto FMC e buscas todos os formulários existentes e cria um arquivo de txt.<br><br>
+  <b>geraPastasTemplates</b> - Percorre o projeto FMC e buscas todos os formulários existentes e cria um arquivo de txt.<br><br>
     
   <b>geraUrlsProd</b> - monta a url de produção para baixar o .jar dos servidores e gera um arquivo .txt com as urls montadas.<br><br>
 
