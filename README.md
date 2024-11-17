@@ -1,6 +1,6 @@
 <div>
   <h2>
-    Projeto para automatizar processo para comparação de dados.
+    Projeto para automatizar processo - comparação de dados de produção e desenv.
   </h2>
   <h2>
     MÉTODOS
@@ -21,5 +21,5 @@
 
   <b>gerarPlanilhaExcel</b> - Pega os números de cada formulário em <b>PastaJasper</b> e <b>PastaQFS</b>, lista todos os formulários em suas expectativas colunas.<br><br>
 
-  <b>verificarFormularios</b> - Válida qual formulário está na tecnologia antiga (QFS) ou já foi migrado (Jasper) e passa a informação em uma coluna extra na planilha criada no método gerarPlanilhaExcel.<br><br>
+  <b>verificarFormularios</b> - Compara e válida qual formulário está na tecnologia antiga (QFS) ou já foi migrado (Jasper) em relação a desenv e produção, passando a informação em uma coluna extra na planilha criada no método gerarPlanilhaExcel.<br><br>
 </div>
